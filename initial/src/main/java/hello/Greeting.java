@@ -17,4 +17,8 @@ public class Greeting {
     public String getContent() {
         return content;
     }
+
+    public Object getMessage() {
+        return "Hello";
+    }
 }
